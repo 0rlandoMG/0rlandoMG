@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Orlando 👋</h1>
 
-<h3 align="center">Software Engineer & AI Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
 Building on-device LLM/SLM solutions for NLP and speech-to-text systems, with Python and PyTorch.
 </p>
 
 <p align="center">
-📍 La Habana, Cuba &nbsp;|&nbsp; 🌐 Open to remote work &nbsp;|&nbsp; 📫 0rlandomarrerog@gmail.com
+🌐 Open to remote work &nbsp;|&nbsp; 📫 0rlandomarrerog@gmail.com
 </p>
 
 ---
@@ -19,12 +19,6 @@ Building on-device LLM/SLM solutions for NLP and speech-to-text systems, with Py
 - 💼 Currently working as a Software Engineer, with experience across backend (Java/Spring Boot), frontend, and applied NLP
 - 📚 Currently learning **LangGraph** and multi-agent orchestration to go deeper into agentic AI
 - 🗣️ Languages: Spanish (native)
-
----
-
-### 🚀 Featured project
-
-**[local-slm-speech-postprocessing](https://github.com/0rlandoMG/local-slm-speech-postprocessing)** — On-device NLP pipeline for speech-to-text post-processing: linguistic correction and multi-style summarization powered by a locally-run SLM (Phi-4-mini via `llama.cpp`), validated with rigorous statistical testing (Wilcoxon, Kruskal-Wallis, BERTScore).
 
 ---
 
