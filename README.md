@@ -78,3 +78,4 @@ Building on-device LLM/SLM solutions for NLP and speech-to-text systems, with Py
 
 - Email: **0rlandomarrerog@gmail.com**
 - WhatsApp: **+53 56078084**
+- Portafolios: **https://orlandomarrero-dev.vercel.app/**
