@@ -1,24 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:2563EB&height=210&section=header&text=Orlando%20Marrero%20Gonz%C3%A1lez&fontSize=40&fontColor=ffffff&fontAlignY=33&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer&descAlignY=54&descSize=17&animation=fadeIn" width="100%" alt="Orlando Marrero González — AI Engineer & Software Engineer" />
+<img src="https://orlandomarrero-dev.vercel.app/images/avatar.jpg" width="130" height="130" style="border-radius:50%;object-fit:cover;" alt="Orlando Marrero González" />
+
+# Orlando Marrero González
+### AI Engineer · Software Engineer
 
 <a href="https://orlandomarrero-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=I+bring+LLMs+on-device%2C+no+cloud+required;Post-ASR+correction+%26+summarization+with+SLMs;Validated+with+stats%2C+not+vibes+(Wilcoxon%2C+BERTScore);Python+%7C+Java+%7C+PyTorch+%7C+Learning+LangGraph" alt="I bring LLMs on-device, no cloud required — post-ASR correction and summarization with SLMs — validated with stats, not vibes — Python, Java, PyTorch, learning LangGraph" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=I+bring+LLMs+on-device%2C+no+cloud+required;Post-ASR+correction+%26+summarization+with+SLMs;Validated+with+stats%2C+not+vibes+(Wilcoxon%2C+BERTScore);Python+%7C+Java+%7C+PyTorch+%7C+LangGraph" alt="I bring LLMs on-device, no cloud required — post-ASR correction and summarization with SLMs — validated with stats, not vibes — Python, Java, PyTorch, LangGraph" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/La_Habana,_Cuba-open_to_remote-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="La Habana, Cuba — open to remote work" />
-  <img src="https://img.shields.io/badge/Open_to-AI_/_Software_Engineer_roles-2563EB?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to AI and Software Engineer roles" />
+  <img src="https://img.shields.io/badge/La_Habana,_Cuba-open_to_remote-0F766E?style=flat-square&logo=googlemaps&logoColor=white" alt="La Habana, Cuba — open to remote work" />
+  <img src="https://img.shields.io/badge/Open_to-AI_/_Software_Engineer_roles-2563EB?style=flat-square&logo=handshake&logoColor=white" alt="Open to AI and Software Engineer roles" />
 </p>
 
 <p>
-  <a href="https://orlandomarrero-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=2DD4BF" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/orlando-marrero-g/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:0rlandomarrerog@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/5356078084"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://orlandomarrero-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=firefoxbrowser&logoColor=2DD4BF" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/orlando-marrero-g/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:0rlandomarrerog@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/5356078084"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 </div>
+
+<br/>
 
 ---
 
@@ -185,6 +190,13 @@ Undergraduate thesis: *On-Device NLP Modules for Notus — Post-ASR Correction &
 
 Based in **Havana, Cuba**, open to **remote AI Engineer / Software Engineer** roles.
 
+<a href="mailto:0rlandomarrerog@gmail.com"><img src="https://img.shields.io/badge/0rlandomarrerog@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 0rlandomarrerog@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/orlando-marrero-g/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://orlandomarrero-dev.vercel.app/"><img src="https://img.shields.io/badge/See_the_portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=2DD4BF" alt="See the portfolio" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F766E,100:0D1117&height=120&section=footer&text=Building%20smart%20systems%2C%20on-device%20and%20on%20purpose&fontSize=16&fontColor=ffffff&fontAlignY=72" width="100%" alt="Building smart systems, on-device and on purpose" />
+
+</div>
 <a href="mailto:0rlandomarrerog@gmail.com"><img src="https://img.shields.io/badge/0rlandomarrerog@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 0rlandomarrerog@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/orlando-marrero-g/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://orlandomarrero-dev.vercel.app/"><img src="https://img.shields.io/badge/See_the_portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=2DD4BF" alt="See the portfolio" /></a>
