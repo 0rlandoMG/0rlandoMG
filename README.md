@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://orlandomarrero-dev.vercel.app/images/avatar.jpg" width="130" height="130" style="border-radius:50%;object-fit:cover;" alt="Orlando Marrero González" />
-
 # Orlando Marrero González
 ### AI Engineer · Software Engineer
 
@@ -190,13 +188,6 @@ Undergraduate thesis: *On-Device NLP Modules for Notus — Post-ASR Correction &
 
 Based in **Havana, Cuba**, open to **remote AI Engineer / Software Engineer** roles.
 
-<a href="mailto:0rlandomarrerog@gmail.com"><img src="https://img.shields.io/badge/0rlandomarrerog@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 0rlandomarrerog@gmail.com" /></a>
-<a href="https://www.linkedin.com/in/orlando-marrero-g/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://orlandomarrero-dev.vercel.app/"><img src="https://img.shields.io/badge/See_the_portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=2DD4BF" alt="See the portfolio" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F766E,100:0D1117&height=120&section=footer&text=Building%20smart%20systems%2C%20on-device%20and%20on%20purpose&fontSize=16&fontColor=ffffff&fontAlignY=72" width="100%" alt="Building smart systems, on-device and on purpose" />
-
-</div>
 <a href="mailto:0rlandomarrerog@gmail.com"><img src="https://img.shields.io/badge/0rlandomarrerog@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 0rlandomarrerog@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/orlando-marrero-g/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://orlandomarrero-dev.vercel.app/"><img src="https://img.shields.io/badge/See_the_portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=2DD4BF" alt="See the portfolio" /></a>
