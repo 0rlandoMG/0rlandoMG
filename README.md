@@ -162,10 +162,7 @@ Modeled the shared PostgreSQL schema, built backend logic, and implemented the J
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0rlandoMG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2563EB" alt="Orlando's GitHub stats" />
 <img width="49%" src="https://github-readme-streak-stats-kappa-sand.vercel.app/?user=0rlandoMG&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2563EB&fire=F0883E&currStreakLabel=2DD4BF" alt="Orlando's contribution streak" />
-
-<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0rlandoMG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=2DD4BF&langs_count=10" alt="Most used languages" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0rlandoMG&bg_color=0D1117&color=2DD4BF&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
 
