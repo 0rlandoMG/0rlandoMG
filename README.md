@@ -146,7 +146,7 @@ Modeled the shared PostgreSQL schema, built backend logic, and implemented the J
 
 <br />
 
-**🎙️ Junior Software Engineer — Ingenius** · *2024 – Jun 2026 · ~2 years · Full-time*
+**🎙️ Junior Software Engineer — Ingenius** · *2024 – Jun 2026 · ~2 years*
 > Built and maintained the UI for **Notus**, a Whisper/WhisperX-based transcription desktop app (Flet), and shipped **i18n support in Spanish, English, and French**. For my undergraduate thesis, designed and integrated two on-device NLP modules powered by **Phi-4-mini** running locally via `llama.cpp` — a post-ASR correction pipeline and a Map-Reduce summarizer — both validated with non-parametric statistical tests.
 > `Python` `PyTorch` `Flet` `Phi-4-mini` `llama.cpp` `WhisperX` `i18n`
 
