@@ -29,10 +29,10 @@
 
 I'm a **Software Engineer** with 2 years of experience shipping desktop and web applications, with hands-on work getting **small language models running fully on-device** — no cloud calls — inside a production speech-transcription product.
 
-- 🎙️ **Junior Software Engineer @ Ingenius** — built the UI and internationalization for **Notus**, a Whisper/WhisperX-based transcription desktop app.
+- 🎙️ **Junior Software Engineer @ Ingenius** *(2024 – 2026)* — built the UI and internationalization for **Notus**, a Whisper/WhisperX-based transcription desktop app.
 - 🧠 My undergraduate thesis integrated **Phi-4-mini** (quantized, GGUF, via `llama.cpp`) into Notus for **post-ASR correction** and **multi-style summarization**, running locally on ~3GB VRAM.
 - 📐 I like knowing *why* something works: both modules were validated with **Wilcoxon signed-rank, Kruskal-Wallis, Mann-Whitney U, and BERTScore**, not eyeballed.
-- 🎓 **B.Sc. Software Engineering @ CUJAE** (Havana), **Feb 2023 – Jun 2026**.
+- 🎓 **B.Sc. Software Engineering @ CUJAE** (Havana), **Feb 2023 – Jun 2026**. Graduated.
 - 🏢 Also shipped a **Java/Spring Boot** backend and **Vue.js** frontend for a digital-transformation platform at **ETECSA**.
 - 📚 Currently deepening **agentic AI** skills — **LangGraph** and multi-agent orchestration — to grow further into AI engineering.
 - 🌍 Based in **Havana, Cuba**, open to **remote** roles.
@@ -146,7 +146,7 @@ Modeled the shared PostgreSQL schema, built backend logic, and implemented the J
 
 <br />
 
-**🎙️ Junior Software Engineer — Ingenius** · *2024 – 2026 · ~2 years · Full-time*
+**🎙️ Junior Software Engineer — Ingenius** · *2024 – Jun 2026 · ~2 years · Full-time*
 > Built and maintained the UI for **Notus**, a Whisper/WhisperX-based transcription desktop app (Flet), and shipped **i18n support in Spanish, English, and French**. For my undergraduate thesis, designed and integrated two on-device NLP modules powered by **Phi-4-mini** running locally via `llama.cpp` — a post-ASR correction pipeline and a Map-Reduce summarizer — both validated with non-parametric statistical tests.
 > `Python` `PyTorch` `Flet` `Phi-4-mini` `llama.cpp` `WhisperX` `i18n`
 
@@ -163,7 +163,7 @@ Modeled the shared PostgreSQL schema, built backend logic, and implemented the J
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0rlandoMG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2563EB" alt="Orlando's GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=0rlandoMG&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2563EB&fire=F0883E&currStreakLabel=2DD4BF" alt="Orlando's contribution streak" />
+<img width="49%" src="https://github-readme-streak-stats-kappa-sand.vercel.app/?user=0rlandoMG&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2563EB&fire=F0883E&currStreakLabel=2DD4BF" alt="Orlando's contribution streak" />
 
 <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0rlandoMG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=2DD4BF&langs_count=10" alt="Most used languages" />
 
@@ -175,7 +175,7 @@ Modeled the shared PostgreSQL schema, built backend logic, and implemented the J
 
 ## 🎓 Education & languages
 
-**B.Sc. Software Engineering** — Ciudad Universitaria José Antonio Echeverría (**CUJAE**) · *Feb 2023 – Jun 2026*
+**B.Sc. Software Engineering** — Ciudad Universitaria José Antonio Echeverría (**CUJAE**) · *Feb 2023 – Jun 2026 · Graduated*
 Undergraduate thesis: *On-Device NLP Modules for Notus — Post-ASR Correction & Summarization with Phi-4-mini*
 
 **Languages** — Spanish (native) · English (A2, certified by CUJAE)
